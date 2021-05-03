@@ -30,6 +30,9 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [How to Crack PDF Files in Python](https://www.thepythoncode.com/article/crack-pdf-file-password-in-python). ([code](ethical-hacking/pdf-cracker))
     - [How to Build a SQL Injection Scanner in Python](https://www.thepythoncode.com/code/sql-injection-vulnerability-detector-in-python). ([code](ethical-hacking/sql-injection-detector))
     - [How to Extract Chrome Passwords in Python](https://www.thepythoncode.com/article/extract-chrome-passwords-python). ([code](ethical-hacking/chrome-password-extractor))
+    - [How to Use Shodan API in Python](https://www.thepythoncode.com/article/using-shodan-api-in-python). ([code](ethical-hacking/shodan-api))
+    - [How to Make an HTTP Proxy in Python](https://www.thepythoncode.com/article/writing-http-proxy-in-python-with-mitmproxy). ([code](ethical-hacking/http-mitm-proxy))
+    - [How to Extract Chrome Cookies in Python](https://www.thepythoncode.com/article/extract-chrome-cookies-python). ([code](ethical-hacking/chrome-cookie-extractor))
 
 - ### [Machine Learning](https://www.thepythoncode.com/topic/machine-learning)
     - ### [Natural Language Processing](https://www.thepythoncode.com/topic/nlp)
@@ -38,6 +41,7 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
         - [How to Perform Text Classification in Python using Tensorflow 2 and Keras](https://www.thepythoncode.com/article/text-classification-using-tensorflow-2-and-keras-in-python). ([code](machine-learning/nlp/text-classification))
         - [Sentiment Analysis using Vader in Python](https://www.thepythoncode.com/article/vaderSentiment-tool-to-extract-sentimental-values-in-texts-using-python). ([code](machine-learning/nlp/sentiment-analysis-vader))
         - [How to Perform Text Summarization using Transformers in Python](https://www.thepythoncode.com/article/text-summarization-using-huggingface-transformers-python). ([code](machine-learning/nlp/text-summarization))
+        - [How to Fine Tune BERT for Text Classification using Transformers in Python](https://www.thepythoncode.com/article/finetuning-bert-using-huggingface-transformers-python). ([code](machine-learning/nlp/bert-text-classification))
     - ### [Computer Vision](https://www.thepythoncode.com/topic/computer-vision)
         - [How to Detect Human Faces in Python using OpenCV](https://www.thepythoncode.com/article/detect-faces-opencv-python). ([code](machine-learning/face_detection))
         - [How to Make an Image Classifier in Python using TensorFlow and Keras](https://www.thepythoncode.com/article/image-classification-keras-python). ([code](machine-learning/image-classifier))
@@ -54,6 +58,7 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
         - [How to Make a Barcode Reader in Python](https://www.thepythoncode.com/article/making-a-barcode-scanner-in-python). ([code](general/barcode-reader))
         - [Image Transformations using OpenCV in Python](https://www.thepythoncode.com/article/image-transformations-using-opencv-in-python). ([code](machine-learning/image-transformation))
         - [How to Apply HOG Feature Extraction in Python](https://www.thepythoncode.com/article/hog-feature-extraction-in-python). ([code](machine-learning/hog-feature-extraction))
+        - [SIFT Feature Extraction using OpenCV in Python](https://www.thepythoncode.com/article/sift-feature-extraction-using-opencv-in-python). ([code](machine-learning/sift))
     - [Building a Speech Emotion Recognizer using Scikit-learn](https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn). ([code](machine-learning/speech-emotion-recognition))
     - [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python). ([code](machine-learning/speech-recognition))
     - [Top 8 Python Libraries For Data Scientists and Machine Learning Engineers](https://www.thepythoncode.com/article/top-python-libraries-for-data-scientists).
@@ -63,6 +68,7 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [Introduction to Finance and Technical Indicators with Python](https://www.thepythoncode.com/article/introduction-to-finance-and-technical-indicators-with-python). ([code](machine-learning/technical-indicators))
     - [Algorithmic Trading with FXCM Broker in Python](https://www.thepythoncode.com/article/trading-with-fxcm-broker-using-fxcmpy-library-in-python). ([code](machine-learning/trading-with-fxcm))
     - [How to Create Plots With Plotly In Python](https://www.thepythoncode.com/article/creating-dynamic-plots-with-plotly-visualization-tool-in-python). ([code](machine-learning/plotly-visualization))
+    - [Feature Selection using Scikit-Learn in Python](https://www.thepythoncode.com/article/feature-selection-and-feature-engineering-using-python). ([code](machine-learning/feature-selection))
 
 - ### [General Python Topics](https://www.thepythoncode.com/topic/general-python-topics)
     - [How to Make Facebook Messenger bot in Python](https://www.thepythoncode.com/article/make-bot-fbchat-python). ([code](general/messenger-bot))
@@ -79,6 +85,8 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [How to Get the Size of Directories in Python](https://www.thepythoncode.com/article/get-directory-size-in-bytes-using-python). ([code](general/calculate-directory-size))
     - [How to Play and Record Audio in Python](https://www.thepythoncode.com/article/play-and-record-audio-sound-in-python). ([code](general/recording-and-playing-audio))
     - [How to Get Geographic Locations in Python](https://www.thepythoncode.com/article/get-geolocation-in-python). ([code](general/geolocation))
+    - [How to Assembly, Disassembly and Emulate Machine Code using Python](https://www.thepythoncode.com/article/arm-x86-64-assembly-disassembly-and-emulation-in-python). ([code](general/assembly-code))
+    - [Detecting Fraudulent Transactions in a Streaming Application using Kafka in Python](https://www.thepythoncode.com/article/detect-fraudulent-transactions-with-apache-kafka-in-python). ([code](general/detect-fraudulent-transactions))
     
     
 - ### [Web Scraping](https://www.thepythoncode.com/topic/web-scraping)
@@ -116,6 +124,7 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [Logging in Python](https://www.thepythoncode.com/article/logging-in-python). ([code](python-standard-library/logging))
     - [How to Make a Chat Application in Python](https://www.thepythoncode.com/article/make-a-chat-room-application-in-python). ([code](python-standard-library/chat-application))
     - [How to Delete Emails in Python](https://www.thepythoncode.com/article/deleting-emails-in-python). ([code](python-standard-library/deleting-emails))
+    - [Daemon Threads in Python](https://www.thepythoncode.com/article/daemon-threads-in-python). ([code](python-standard-library/daemon-thread))
 
 - ### [Using APIs](https://www.thepythoncode.com/topic/using-apis-in-python)
     - [How to Automate your VPS or Dedicated Server Management in Python](https://www.thepythoncode.com/article/automate-veesp-server-management-in-python). ([code](general/automating-server-management))
@@ -126,6 +135,9 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [How to Translate Text in Python](https://www.thepythoncode.com/article/translate-text-in-python). ([code](general/using-google-translate-api))
     - [How to Make a URL Shortener in Python](https://www.thepythoncode.com/article/make-url-shortener-in-python). ([code](general/url-shortener))
     - [How to Get Google Page Ranking in Python](https://www.thepythoncode.com/article/get-google-page-ranking-by-keyword-in-python). ([code](general/getting-google-page-ranking))
+    - [How to Make a Telegram Bot in Python](https://www.thepythoncode.com/article/make-a-telegram-bot-in-python). ([code](general/telegram-bot))
+    - [How to Use Gmail API in Python](https://www.thepythoncode.com/article/use-gmail-api-in-python). ([code](general/gmail-api))
+    - [How to Use YouTube API in Python](https://www.thepythoncode.com/article/using-youtube-api-in-python). ([code](general/youtube-api))
 
 - ### [Database](https://www.thepythoncode.com/topic/using-databases-in-python)
     - [How to Use MySQL Database in Python](https://www.thepythoncode.com/article/using-mysql-database-in-python). ([code](database/mysql-connector))
